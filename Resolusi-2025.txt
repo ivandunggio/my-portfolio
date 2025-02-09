@@ -1,0 +1,5 @@
+Resolusi saya di Tahun 2025, antara lain sebagai berikut:
+1. Mempermantap konsep dan praktik HTML, CSS, dan JavaScript
+2. Memperdalam konsep JavaScript ES6
+3. Memperdalam pemahaman tentang konsep dan praktir Frontend Development
+4. Belajar konsep dan praktik nodejs.
